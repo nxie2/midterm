@@ -1,7 +1,7 @@
 # Nan Xie (IA),(designer),(coder)
 
 # Domain
-### This is a website that presents information of products that belong to the three different series of product lines under the cosmestic brand named Bodylife. It also provides an oppotunity for viewers to sign up to be a member of the company.
+### This is a website that presents information of products that belong to the three different series of product lines under the cosmestic brand named Yourlife. It also provides an oppotunity for viewers to sign up to be a member of the company.
 
 # Ontology
 ### Each product line/series has 3 products.
